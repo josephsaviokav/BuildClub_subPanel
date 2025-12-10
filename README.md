@@ -82,4 +82,6 @@ This project implements a passport-size image creator using OpenCV and Python. T
 - Make sure the `results/` directory exists for saving output images
 
 
+
+### Screenshot of the final output
 ![alt text](image.png)
