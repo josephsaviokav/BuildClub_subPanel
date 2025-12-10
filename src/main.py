@@ -7,7 +7,7 @@ import numpy as np
 
 
 
-frame = cv2.imread('tom.jpg')#here replace with tom.jpg if you want to use that image
+frame = cv2.imread('../assets/tom.jpg')#here replace with tom.jpg if you want to use that image
 
 
 
